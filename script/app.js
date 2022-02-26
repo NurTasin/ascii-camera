@@ -12,7 +12,7 @@
 
 	camera.init({
 		width: 160,
-		height: 120,
+		height: 90,
 		fps: 30,
 		mirror: true,
 
